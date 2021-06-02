@@ -2,7 +2,30 @@
 
 &nbsp;
 
-## ?
+## Express Generator
 
+https://www.npmjs.com/package/express-generator
+
+&nbsp;
+
+## Robo 3T
+
+https://robomongo.org/download
+
+&nbsp;
+
+## MVC, Model View Controller
+
+- Model - Database
+- View - Client, show on screen
+- Controller - Handle the logic
+
+Model => Controller => User
+
+&nbsp;
+
+## bcrypt.js
+
+https://www.npmjs.com/package/bcryptjs
 
 &nbsp;
